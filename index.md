@@ -3,7 +3,7 @@
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2022/tree/master/notebooks) used in the course). 
 
-For doing the hands-on part we recommend to use colab (you might need a google account) an internet connections is needed. If you want to do it without internet connection on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)). Please that we are no experts in docker and anaconda and thus can only give limted support.
+For doing the hands-on part we recommend to use colab (you might need a google account) an internet connections is needed. If you want to do it without internet connection on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)). Please note that we are not experts in docker and anaconda and thus can only give limted support.
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
@@ -19,7 +19,7 @@ Examples for projects from the DL course 2018 and 2019 can be found [here](proje
 ## Other resources 
 We took inspiration (and sometimes slides / figures) from the following resources.
 
-* Probabilistic Deep Learning (DL-Book) [Probabilistic Deep Learning](https://www.manning.com/books/probabilistic-deep-learning?a_aid=probabilistic_deep_learning&a_bid=78e55885). This book is by the tensorchiefs and covers the increasingly popular probabilistic approach to deep learning .
+* Probabilistic Deep Learning (DL-Book) [Probabilistic Deep Learning](https://www.manning.com/books/probabilistic-deep-learning?a_aid=probabilistic_deep_learning&a_bid=78e55885). This book is written by the tensorchiefs and covers the increasingly popular probabilistic approach to deep learning .
 
 * Deep Learning Book (DL-Book) [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/). This is a quite comprehensive book which goes far beyond the scope of this course. 
 
