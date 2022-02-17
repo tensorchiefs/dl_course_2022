@@ -2,11 +2,7 @@
 
 The course is taught in python using using jupyter notebooks. The deep learning libraries are tensorflow and keras.  
 
-### Installation instructions
-There two ways, how to run these notebooks, a provided docker container or via anaconda. 
-
-
-#### Anaconda Installation
+## Anaconda Installation
 
 * [Download](https://www.anaconda.com/download/) the Anaconda Version for python 3.6 required for you operation system.  For Windows use the "Just me" option (system-wide will only work, if you make sure that all users have write access to the install directory).
 
@@ -38,7 +34,7 @@ Directly typing comands can be done in the Anaconda Prompt window which can be o
 	pip install urllib3
 	```
 
-#### Starting the notebook
+### Starting the notebook
 
 Once you installed anaconda you can start the notebooks via (you might need to activate the environment) 
 
@@ -46,7 +42,7 @@ Once you installed anaconda you can start the notebooks via (you might need to a
 jupyter notebook
 ```
 
-#### Checking the installation
+### Checking the installation
 Please make sure that the following notebook is working
 <a href='https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/00_Checking_Correct_Installation.ipynb'>00_Checking_Correct_Installation.ipynb</a>
 
